@@ -3,8 +3,9 @@
 # proyecto-formatos-01
 ---
 ## Proyecto: Cats Love Rabbits
+[Link del proyecto en RAR subido a una carpeta en DRIVE](https://drive.google.com/file/d/1huS1xs3D9YdvVzPmwm-GSLJ0WdeevoT5/view?usp=sharing)
 
-[Link del video](https://www.youtube.com/watch?v=tK3NRkNkPcA)
+[Link del video publicado en youtube](https://www.youtube.com/watch?v=tK3NRkNkPcA)
 
 ![image](https://github.com/UPT-FAING-EPIS/proyecto-si888-2024-i-u1-final-grupo_rivera_valverde/assets/90206909/a65a498c-0a71-4df8-86eb-73cc73ebbac1)
 
